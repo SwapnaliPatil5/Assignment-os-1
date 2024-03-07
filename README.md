@@ -38,7 +38,7 @@ a. Compress the "docs" directory into a zip file.
 b. Extract the contents of the zip file into a new directory. 
 ![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/ecfc33a5-d57a-4487-a1ce-c52fd1b1a2e3)
 k) File Editing: 
-a. Open the "file1.txt" file in a text editor and add some text to it. 
+a. Open the "file1.txt" file in a text editor and add some text to it.
 b. Replace a specific word in the "file1.txt" file with another word (provide the original word and the word to replace it with). 
 ![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/f718bfbc-fca8-4381-a9a8-3928e7f3aeec)
 
