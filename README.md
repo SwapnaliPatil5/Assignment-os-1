@@ -1,5 +1,8 @@
 # Assignment-os-1
 Concepts of Operating System
+Problem 1: Read the instructions carefully and answer accordingly. If there is 
+any need to insert some data then do that as well.  
+
 
 a) Navigate and List: 
 a. Start by navigating to your home directory and list its contents. Then, move into a directory named "LinuxAssignment" if it exists; otherwise, create it. 
