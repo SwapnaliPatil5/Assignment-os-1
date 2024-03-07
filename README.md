@@ -1,5 +1,5 @@
-# Assignment-os-1
-Concepts of Operating System
+# Assignment-os-1 (Concepts of Operating System)
+
 Problem 1: Read the instructions carefully and answer accordingly. If there is 
 any need to insert some data then do that as well.  
 
