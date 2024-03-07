@@ -23,6 +23,7 @@ a. Change the permissions of "file2.txt" to allow read, write, and execute permi
 
 f) Final Checklist: 
 a. Finally, list the contents of the "LinuxAssignment" directory and the root directory to ensure that all operations were performed correctly.
+
 ![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/34461439-9a39-4ba8-990f-329961dc1b1b)
 
 g) File Searching: 
