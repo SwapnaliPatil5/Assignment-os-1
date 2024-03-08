@@ -55,5 +55,30 @@ a. Open the "file1.txt" file in a text editor and add some text to it.
 b. Replace a specific word in the "file1.txt" file with another word (provide the original word and the word to replace it with). 
 ![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/f718bfbc-fca8-4381-a9a8-3928e7f3aeec)
 
+Problem 2: Read the instructions carefully and answer accordingly. If there is any need to insert some data then do that as well. 
+a. Suppose you have a file named "data.txt" containing important information. Display the first 10 lines of this file to quickly glance at its contents using a command. 
+ 
+b. Now, to check the end of the file for any recent additions, display the last 5 lines of "data.txt" using another command. 
 
+![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/fd74d71d-8bc4-4133-9991-0d6adbeae50b)
+
+c. In a file named "numbers.txt," there are a series of numbers. Display the first 15 lines of this file to analyze the initial data set. 
+ 
+d. To focus on the last few numbers of the dataset, display the last 3 lines of "numbers.txt"
+
+![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/64a2b88a-1125-4283-b234-0546421a703a)
+
+e. Imagine you have a file named "input.txt" with text content. Use a command to translate all lowercase letters to uppercase in "input.txt" and save the modified text in a new file named "output.txt." 
+
+![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/00d6950c-2422-409f-b09e-a18c4e93d2a2)
+
+![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/79c74f92-cded-4b3f-94ef-32f453dd6759)
+
+f. In a file named "duplicate.txt," there are several lines of text, some of which are duplicates. Use a command to display only the unique lines from "duplicate.txt." 
+
+![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/0a4bd09e-5e05-44e3-84ca-f010af165666)
+
+g. In a file named "fruit.txt," there is a list of fruits, but some fruits are repeated. Use a command to display each unique fruit along with the count of its occurrences in "fruit.txt."
+
+![image](https://github.com/SwapnaliPatil5/Assignment-os-1/assets/152301536/f672fa52-1d6b-40b2-9575-5583850311a8)
 
